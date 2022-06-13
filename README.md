@@ -21,7 +21,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.learn-c.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>
+    <a href="https://www.learn-c.org/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/c-programming.png"/> </a>
     <a href="https://cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.android.com/intl/en_in/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a>
@@ -35,7 +35,9 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-shadow-tal-revivo.png"/> </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-shadow-tal-revivo.png"/> </a>
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
+ 
  
 </p>
 
