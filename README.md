@@ -1,19 +1,19 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shantanu</h1>
-<h3 align="center">I'm a passionate on Web Development from India.</h3>
+<h3 align="center">I'm a passionate on Web Development & Data Analytics from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Studiac - Learning Management System](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Studiac - Learning Management System]**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at <!--**[My Portfolio](https://subhamraoniar.com)** -->
-
+<!-- - 👨‍💻 All of my projects are available at <!--**[My Portfolio](https://subhamraoniar.com)** -->
+ -->
 - 📫 How to reach me **shantanudutta07@gmail.com**
 
 - ⚡ Fun fact **I play games and go for travelling often..**
@@ -63,7 +63,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/shantanu-dutta2001"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <a href = "https://www.instagram.com/dutta_one_and_only/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
