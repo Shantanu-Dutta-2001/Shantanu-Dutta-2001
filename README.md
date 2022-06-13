@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 <!-- - 👨‍💻 All of my projects are available at <!--**[My Portfolio](https://subhamraoniar.com)** -->
- -->
+ 
 - 📫 How to reach me **shantanudutta07@gmail.com**
 
 - ⚡ Fun fact **I play games and go for travelling often..**
