@@ -6,7 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Studiac - Learning Management System]**
+- 🔭 I’m currently working on **[Online Examination Portal ]**
+
+- 🎯 Successfully completed my Third Year project **[Studiac - Learning Management System]**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
