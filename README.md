@@ -6,11 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Online Examination Portal ]**
+- 🔭 I’m currently working on **[Event Registration System ]** 
+
+- 🧑‍💻 I am a Software Developer in a IT firm,Surat.
 
 - 🎯 Successfully completed my Third Year project **[Studiac - Learning Management System]**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **React And Node.js.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
