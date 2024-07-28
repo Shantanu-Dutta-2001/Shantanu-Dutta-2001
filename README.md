@@ -15,14 +15,12 @@
 - 🌱 I’m currently learning **React And Node.js.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-<!-- - 👨‍💻 All of my projects are available at <!--**[My Portfolio](https://subhamraoniar.com)** -->
  
 - 📫 How to reach me **shantanudutta07@gmail.com**
 
-- ⚡ Fun fact **I play games and go for travelling often..**
+- ⚡ Fun fact **I explore new things in my field and go for travelling often..**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools I Know:
 
 <p align="left"> 
     <a href="https://www.learn-c.org/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/c-programming.png"/> </a>
