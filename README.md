@@ -76,6 +76,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Shantanu-Dutta-2001">
+    <img src="https://komarev.com/ghpvc/?username=Shantanu-Dutta-2001&color=blueviolet">
 </a>
 <a href="https://github.com/Shantanu-Dutta-2001?tab=followers"><img src="https://img.shields.io/github/followers/Shantanu-Dutta-2001?label=Followers&style=social" alt="GitHub Badge"></a>
