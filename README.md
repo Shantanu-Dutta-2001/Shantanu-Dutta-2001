@@ -45,11 +45,8 @@
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/Shantanu-Dutta-2001/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shantanu Dutta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shantanu-Dutta-2001&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
+
 
 ## 📊 My Github Stats
 
@@ -79,3 +76,6 @@
     <img src="https://komarev.com/ghpvc/?username=Shantanu-Dutta-2001&color=blueviolet">
 </a>
 <a href="https://github.com/Shantanu-Dutta-2001?tab=followers"><img src="https://img.shields.io/github/followers/Shantanu-Dutta-2001?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+
