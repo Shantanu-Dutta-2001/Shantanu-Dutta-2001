@@ -1,11 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shantanu</h1>
-<h3 align="center">I'm a passionate on Web Development & Data Science & Android Development from India.</h3>
+<h3 align="center">I'm passionate on Full Stack Web Development & Data Science from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
+- 🏆 I’m aiming to become a **Sr. Full Stack Developer** by the end of 2025.
+  
 - 🔭 I’m currently working on **[Event Registration System ]** 
 
 - 🧑‍💻 I am a Software Developer in a IT firm,Surat.
@@ -14,11 +16,27 @@
 
 - 🌱 I’m currently learning **React And Node.js.**
 
+- 💡 I’m exploring **AI/ML integration with Web Applications.** 
+
+- ⚡ Fun fact **I explore new things in my field..**
+
+## 🌟 Achievements:
+
+- 🥇 Delivered multiple successful projects in Angular.
+
+- 📊 Successfully optimized backend APIs, **Improving performance by 30%.**
+
+## 📈 Goals for 2025:
+
+- 🔑 Build and launch a personal project focused on **Latest Technologies in Web Development & AI combined.**
+
+- 🛠️ Enhance my fully developed skills in **React and Node.js**
+
+
 - 👯 I’m looking to collaborate on **OpenSource Projects**
  
 - 📫 How to reach me **shantanudutta07@gmail.com**
 
-- ⚡ Fun fact **I explore new things in my field and go for travelling often..**
 
 ## 🚀 Languages and Tools I Know:
 
